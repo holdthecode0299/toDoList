@@ -1,6 +1,6 @@
 # toDoList
 
-Web Engineer: Coding Challenge 
+Coding Challenge 
 
 Build React ToDo List 
 
